@@ -1,0 +1,7 @@
+# Folders to ignore
+.venv
+.idea
+.ipynb_checkpoints
+__pycache__
+
+.py[co]
